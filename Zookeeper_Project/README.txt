@@ -6,4 +6,4 @@ This short code challenge can help the local zoo look after its denizens. You wi
 Learning outcomes
 This project is aimed at our beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops.
 
-Direct Link to the project description and steps: https://hyperskill.org/projects/98?track=2
+Direct Link to the project description and steps: https://hyperskill.org/projects/98
