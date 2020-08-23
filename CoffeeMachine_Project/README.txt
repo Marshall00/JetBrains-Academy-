@@ -6,4 +6,4 @@ What can be better than a cup of coffee during a break? A coffee that you don’
 Learning outcomes
 This project allows you to get a taste of Python. Practice working with functions, challenge yourself with loops and conditions, and get more confident in Python.
 
-Direct Link to the project description and steps: https://hyperskill.org/projects/68?track=2
+Direct Link to the project description and steps: https://hyperskill.org/projects/33
